@@ -8,11 +8,13 @@ frequency, the most frequently occurring word first.
 The algorithms runs in O(n) time where n is the number 
 of characters in the input text string.
 
-How to build:
+How to Build
 =============
 
 Assuming familiarity with maven, clone or download the master branch
-and issue the following command: mvn clean install
+and issue the following command: 
+
+  mvn clean install
 
 
 
